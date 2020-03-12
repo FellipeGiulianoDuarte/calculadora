@@ -1,0 +1,9 @@
+c:\users\felli\documents\visual studio 2017\Projects\calculadora\calculadora\bin\Debug\calculadora.exe.config
+c:\users\felli\documents\visual studio 2017\Projects\calculadora\calculadora\bin\Debug\calculadora.exe
+c:\users\felli\documents\visual studio 2017\Projects\calculadora\calculadora\bin\Debug\calculadora.pdb
+c:\users\felli\documents\visual studio 2017\Projects\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+c:\users\felli\documents\visual studio 2017\Projects\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+c:\users\felli\documents\visual studio 2017\Projects\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+c:\users\felli\documents\visual studio 2017\Projects\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+c:\users\felli\documents\visual studio 2017\Projects\calculadora\calculadora\obj\Debug\calculadora.exe
+c:\users\felli\documents\visual studio 2017\Projects\calculadora\calculadora\obj\Debug\calculadora.pdb
